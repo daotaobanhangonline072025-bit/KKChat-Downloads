@@ -1,7 +1,7 @@
 
 {
-  "version": "1.0.0",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.0/KKChat_Setup_x64_v1.0.0.exe",
-  "sha256": "3b12200d532e64770f5f984e8bdfd0c9cb0b915ecdd99e671420938e7a8d1cc7",
-  "notes": "KK Chat v1.0.0 - Gmail OTP, thong bao va cap nhat phien ban."
+  "version": "1.0.1",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.1/KKChat_Setup_x64_v1.0.1.exe",
+  "sha256": "50f8dafe1e7b95292b214e75359a31983b06aa81f6fe3314a9898416d2162a9a",
+  "notes": "KK Chat v1.0.1 - Sua loi thieu icon SVG khi cai dat."
 }
