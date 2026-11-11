@@ -1,7 +1,7 @@
 
 {
-  "version": "1.0.2",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.2/KKChat_Setup_x64_v1.0.2.exe",
-  "sha256": "89f73a25257376559c6acbce24cfa8650d30df5a3de6a9bef1626e6b29fdaf47",
-  "notes": "KK Chat v1.0.2 - Sửa lỗi hiển thị tên hội thoại, giữ tên người liên hệ khi khởi động và cập nhật giao diện."
+  "version": "1.0.3",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.3/KKChat_Setup_x64_v1.0.3.exe",
+  "sha256": "147840aef82e8dc53658d8b4b3379c2581d2ac1932c9818638fb357abcebe514",
+  "notes": "KK Chat v1.0.3 - Cải thiện DPI 150%, Times New Roman, emoji màu, dán ảnh Clipboard và khay đính kèm."
 }
