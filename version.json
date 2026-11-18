@@ -1,7 +1,6 @@
-
 {
-  "version": "1.0.7",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.7/KKChat_Setup_x64_v1.0.7.exe",
-  "sha256": "E659D8C92F431D89A29BBABD7C2A0B9F1440CC32036E9E8AD3894623E629DC3A",
-  "notes": "KK Chat v1.0.7 - Chia sẻ tin nhắn, hình ảnh, video và tệp giữa bạn bè và nhóm; cải thiện tốc độ chia sẻ, cho phép mở hội thoại trong khi gửi; sửa lưu tệp và giao diện thông báo."
+  "version": "1.0.8",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.8/KKChat_Setup_x64_v1.0.8.exe",
+  "sha256": "C1A02112C21DD4B13C9686A506D004C9FF4F5BFCB75C4742AE97A574C9AA6F60",
+  "notes": "KK Chat v1.0.8 - Bổ sung nút Tin nhắn trên thanh điều hướng, cải thiện giao diện biểu tượng Tin nhắn và chuyển đổi giữa Tin nhắn và Danh bạ."
 }
