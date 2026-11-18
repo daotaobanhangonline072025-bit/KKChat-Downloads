@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.8/KKChat_Setup_x64_v1.0.8.exe",
-  "sha256": "C1A02112C21DD4B13C9686A506D004C9FF4F5BFCB75C4742AE97A574C9AA6F60",
-  "notes": "KK Chat v1.0.8 - Bổ sung nút Tin nhắn trên thanh điều hướng, cải thiện giao diện biểu tượng Tin nhắn và chuyển đổi giữa Tin nhắn và Danh bạ."
+  "version": "1.0.9",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.0.9/KKChat_Setup_x64_v1.0.9.exe",
+  "sha256": "059D3B07E673D5D169D00495418A923D9E776147EE163C84E1FA4C5F9682D52D",
+  "notes": "KK Chat v1.0.9 - Căn chỉnh nút Tạo nhóm trên tiêu đề Tin nhắn, đồng bộ giao diện thanh điều hướng và giữ nguyên biểu tượng Danh bạ gốc."
 }
