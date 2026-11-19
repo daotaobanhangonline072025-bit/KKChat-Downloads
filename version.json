@@ -1,7 +1,7 @@
 
 {
-  "version": "1.1.0",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.0/KKChat_Setup_x64_v1.1.0.exe",
-  "sha256": "1579659BAC0C97B057A6C6DAA28DA8BEF1524D1C0C1F93E871FC081BD339C4B6",
-  "notes": "KK Chat v1.1.0 - Cập nhật giao diện nhóm, hiển thị thành viên, hỗ trợ nhắn tin khi chưa kết bạn và gợi ý @ thành viên."
+  "version": "1.1.1",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.1/KKChat_Setup_x64_v1.1.1.exe",
+  "sha256": "F8BE99B2F2DC497B0217770D7B2C36E451399CC94431D446892609174EC5AD70",
+  "notes": "KK Chat v1.1.1 - Hỗ trợ gửi nhiều ảnh thành album, xem và lưu toàn bộ ảnh, chuyển tiếp và quản lý album; cải thiện căn chỉnh album trong hội thoại."
 }
