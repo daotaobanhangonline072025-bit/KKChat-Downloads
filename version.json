@@ -1,7 +1,7 @@
 
 {
-  "version": "1.1.5",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.5/KKChat_Setup_x64_v1.1.5.exe",
-  "sha256": "80D82D985DD51E9A32273F6DB0630A4A872155CD548C9377E3D0DCDCEABC2F48",
-  "notes": "KK Chat v1.1.5 - Cải thiện giao diện thông tin hội thoại và Kho lưu trữ ảnh/video, hỗ trợ ghim và bỏ ghim hội thoại, điều chỉnh biểu tượng ghim và khôi phục trạng thái ghim khi mở lại ứng dụng."
+  "version": "1.1.6",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.6/KKChat_Setup_x64_v1.1.6.exe",
+  "sha256": "5847F0716F01D848C905644CEB8A453ECFC93BBB50AC05A2F92DEAF0921956FF",
+  "notes": "KK Chat v1.1.6 - Điều chỉnh vị trí huy hiệu tin nhắn chưa đọc trong danh sách hội thoại theo mẫu Zalo, đồng thời duy trì các tính năng hiện có của KK Chat."
 }
