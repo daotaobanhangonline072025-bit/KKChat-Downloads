@@ -1,6 +1,7 @@
+
 {
-    "version":  "1.1.8",
-    "url":  "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.8/KKChat_Setup_x64_v1.1.8.exe",
-    "sha256":  "AFBF358878F68FC716B23413DFC1C4966017A15D4AE70559A722EB1CFE47A863",
-    "notes":  "KK Chat v1.1.8 - Ho tro nhieu tai khoan dung chung Gmail; nang cap khoi phuc mat khau va duy tri cac tinh nang hien co."
+  "version": "1.1.9",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.9/KKChat_Setup_x64_v1.1.9.exe",
+  "sha256": "9759FE6BDF022DEB756B0FA2A61AF31170ACC76926D1832A2E43A4BFD7076DCC",
+  "notes": "KK Chat v1.1.9 - Cai thien nut Like va thanh cam xuc khi cuon hoi thoai; khac phuc loi con lan sau menu ba cham; duy tri cac tinh nang hien co."
 }
