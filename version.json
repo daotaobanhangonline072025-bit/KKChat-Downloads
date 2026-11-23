@@ -1,7 +1,6 @@
-
 {
-  "version": "1.1.9",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.1.9/KKChat_Setup_x64_v1.1.9.exe",
-  "sha256": "9759FE6BDF022DEB756B0FA2A61AF31170ACC76926D1832A2E43A4BFD7076DCC",
-  "notes": "KK Chat v1.1.9 - Cai thien nut Like va thanh cam xuc khi cuon hoi thoai; khac phuc loi con lan sau menu ba cham; duy tri cac tinh nang hien co."
+    "version":  "1.2.0",
+    "url":  "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.2.0/KKChat_Setup_x64_v1.2.0.exe",
+    "sha256":  "FBE88D8AB9A7B2CF1FE9721E3F8BF79B3F87C54D475C148E7966EA03333F02BD",
+    "notes":  "KK Chat v1.2.0 - Cai thien thong bao nhom, badge tin nhan va dong bo giao dien; duy tri cac tinh nang hien co."
 }
