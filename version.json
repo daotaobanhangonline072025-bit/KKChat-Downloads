@@ -1,7 +1,7 @@
 
 {
-  "version": "1.2.2",
-  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.2.2/KKChat_Setup_x64_v1.2.2.exe",
-  "sha256": "A91131A54FC69760F21FECA58741642EFF9E555A2ECCEE651EF14F796DD5963A",
-  "notes": "KK Chat v1.2.2 - Bo sung ket ban truc tiep trong hoi thoai, giu ket ban bang so dien thoai; thong bao ket ban voi avatar; xu ly thong bao loi khi chap nhan loi moi; cai thien giao dien."
+  "version": "1.2.3",
+  "url": "https://github.com/daotaobanhangonline072025-bit/KKChat-Downloads/releases/download/v1.2.3/KKChat_Setup_x64_v1.2.3.exe",
+  "sha256": "FA9561AE70C9D8CFD97288C07E177641E4FF976FA90DA7DDE08BF890260FEC8B",
+  "notes": "KK Chat v1.2.3 - Cai thien do net anh va giao dien tep dinh kem; bo sung icon Word/PDF/MP3/MP4; khoi phuc thumbnail video; cai thien on dinh vi tri khung chat khi mo anh."
 }
